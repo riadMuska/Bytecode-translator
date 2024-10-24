@@ -1,0 +1,5 @@
+/*ciao*/ciao
+assign 300 to d;
+print(*{d t})
+if (> x y) assign 0 to x else assign 0 to y
+while (ifs<=printread) assign ifs+1 to ifs
